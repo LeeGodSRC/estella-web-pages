@@ -7,11 +7,11 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://estella.studio/images/estella-og-image.jpg</image:loc>
+      <image:loc>https://estella.studio/images/estella-og.jpg</image:loc>
       <image:title>Estella - A PC Rhythm Game</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://estella.studio/images/story-illustration.jpg</image:loc>
+      <image:loc>https://estella.studio/images/story.jpg</image:loc>
       <image:title>Estella Story Illustration</image:title>
     </image:image>
   </url>
